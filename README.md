@@ -1,2 +1,4 @@
 # CS5500
-Parallel programming
+My code for CS 5500 Parallel Programming at Utah State University.
+
+
